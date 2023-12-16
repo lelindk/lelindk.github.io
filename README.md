@@ -4,7 +4,7 @@ Este proyecto creado es una página web adaptable a dispositivos de distintos ta
 
 El propósito de esta página web es mostrar mi portafolio de proyectos y experiencia. Incluye una descripción breve de mis motivaciones, experiencias, proyectos, artículos publicados y formas de contacto. 
 
-También incluye imágenes en la carpeta `imagenes`, y un archivo JS para la animación a la escritura de la página web.
+También incluye imágenes en la carpeta `imagenes`, y dos archivos JS, uno para la animación a la escritura de la página web y el otro para un array con enlaces que se lanzan de forma aleatoria para mostrar contenidos de un proyecto.
 
 Además, se incluyeron **Google Fonts** para personalizar las fuentes, **Bootstrap icons** para incorporar íconos como logos de redes sociales (excepto la del Fediverso, la cuál se incluyó dos imagenes .svg para lograr el mismo efecto que con las demás redes) y se usa UTF-8 codificado con html para los símbolos.
 
